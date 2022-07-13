@@ -1,0 +1,25 @@
+p {
+  font-size: 12px;
+  color: cyan;
+  background-color: black;
+  font-style: italic;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.color1 {
+  color: red;
+}
+
+.color2 {
+  color: red;
+}
+
+.colorbackcyan {
+  background-color: cyan;
+}
+
+body {
+  background-image: url("https://i.pinimg.com/originals/ab/04/89/ab0489c72b2e41d7ac5b3e3d0ffdc066.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
